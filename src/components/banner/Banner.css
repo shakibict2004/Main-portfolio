@@ -1,0 +1,72 @@
+
+#man{
+    background-color:antiquewhite;
+    padding: 100px 0;
+}
+.me img{
+    width: 100%;
+    height: 500px;
+    border-radius: 100%;
+
+}
+.me img:hover{
+    transform: scale(1.1);
+    transition: 1.1s;  
+}
+.App span {
+    color: firebrick;
+    font-size: 42px;
+    font-family: "Baskervville SC", serif;
+    font-weight: 800;
+}
+.about h6{
+    font-size: 40px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+.btn button{
+    padding-top: 30px;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 10px;
+}
+.bab a{
+    padding: 20px 10px;
+}
+.hipe a{
+    font-size: 30px;
+    text-decoration: none;
+}
+.hipe h5{
+    font-size: 20px;
+
+}
+.btn a{
+    padding-left: 40px;
+    color: rgb(10, 10, 10);
+    font-weight: 800;
+    font-size: 24px;
+    
+ 
+}
+.btn a:hover{
+    color: rgb(5, 245, 85);
+    transform: scale(1.1);
+    transition: 1.1s;
+    
+}
+.ban button p{
+    padding-bottom: 20px;
+}
+.btn button {
+    padding-top: 6px;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 10px;
+}
+.btn a{
+    
+}
