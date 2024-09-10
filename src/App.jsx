@@ -1,4 +1,4 @@
-import './app.css'
+import './App.css'
 import Banner from './components/banner/Banner'
 import Blog from './components/blog/Blog'
 import Client from './components/client/Client'
