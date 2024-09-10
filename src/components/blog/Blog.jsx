@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Blog.css"
+import "./blog.css"
 import {Container,Row,Col} from 'react-bootstrap'
 import img from "../../assets/blog1.png"
 import img1 from "../../assets/blog2.png"

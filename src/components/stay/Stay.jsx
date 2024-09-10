@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Stay.css"
+import "./stay.css"
 import {Container,Row,Col } from 'react-bootstrap'
 const Stay = () => {
   return (

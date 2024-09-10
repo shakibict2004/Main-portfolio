@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Midil.css" 
+import "./midil.css" 
 import { Container,Row,Col} from 'react-bootstrap'
 import img from "../../assets/imgs.jpg"
 const Midil = () => {

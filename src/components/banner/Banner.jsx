@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Banner.css"
+import "./banner.css"
 import { Button, Col, Container, Row } from 'react-bootstrap'
 import Typed from 'typed.js';
 
